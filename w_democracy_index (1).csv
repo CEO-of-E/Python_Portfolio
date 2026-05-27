@@ -1,0 +1,168 @@
+id,Rank,Country,Score,Electoral process and pluralism,Functioning of government,Political partici­pation,Political culture,Civil liberties,Regime type,Region
+1,1,Norway,10,10,10,10,10,10,Full democracy,Western Europe
+2,2,Iceland,10,10,9,9,10,10,Full democracy,Western Europe
+3,3,Sweden,9,10,10,8,10,9,Full democracy,Western Europe
+4,4,New Zealand,9,10,9,9,8,10,Full democracy,Asia & Australasia
+5,5,Finland,9,10,9,9,9,10,Full democracy,Western Europe
+6,6,Ireland,9,10,8,8,10,10,Full democracy,Western Europe
+7,7,Denmark,9,10,9,8,9,9,Full democracy,Western Europe
+8,7,Canada,9,10,10,8,9,10,Full democracy,North America
+9,9,Australia,9,10,9,8,9,10,Full democracy,Asia & Australasia
+10,10,Switzerland,9,10,9,8,9,9,Full democracy,Western Europe
+11,11,Netherlands,9,10,9,8,9,9,Full democracy,Western Europe
+12,12,Luxembourg,9,10,9,7,9,10,Full democracy,Western Europe
+13,13,Germany,9,10,9,8,8,9,Full democracy,Western Europe
+14,14,United Kingdom,9,10,8,9,8,9,Full democracy,Western Europe
+15,15,Uruguay,8,10,9,6,8,10,Full democracy,Latin America
+16,16,Austria,8,10,8,8,7,9,Full democracy,Western Europe
+17,16,Spain,8,10,7,8,8,9,Full democracy,Western Europe
+18,18,Mauritius,8,9,8,6,9,9,Full democracy,Sub-Saharan Africa
+19,19,Costa Rica,8,10,8,7,8,9,Full democracy,Latin America
+20,20,France,8,10,8,8,7,9,Full democracy,Western Europe
+21,21,Chile,8,10,9,5,8,9,Full democracy,Latin America
+22,22,Portugal,8,10,8,6,8,9,Full democracy,Western Europe
+23,23,South Korea,8,9,8,7,8,8,Flawed democracy,Asia & Australasia
+24,24,Japan,8,9,8,7,8,9,Flawed democracy,Asia & Australasia
+25,25,United States,8,9,7,8,8,8,Flawed democracy,North America
+26,26,Malta,8,9,8,6,8,9,Flawed democracy,Western Europe
+27,27,Estonia,8,10,8,7,7,9,Flawed democracy,Eastern Europe
+28,28,Israel,8,9,8,9,8,6,Flawed democracy,Middle East & North Africa
+29,29,Botswana,8,9,7,6,8,9,Flawed democracy,Sub-Saharan Africa
+30,30,Cape Verde,8,9,7,7,7,9,Flawed democracy,Sub-Saharan Africa
+31,31,Taiwan,8,10,8,6,6,9,Flawed democracy,Asia & Australasia
+32,32,Czech Republic,8,10,7,7,7,9,Flawed democracy,Eastern Europe
+33,33,Belgium,8,10,8,5,7,9,Flawed democracy,Western Europe
+34,34,Cyprus,8,9,6,7,7,9,Flawed democracy,Western Europe
+35,35,Italy,8,10,6,8,6,8,Flawed democracy,Western Europe
+36,36,Slovenia,8,10,7,7,6,8,Flawed democracy,Eastern Europe
+37,36,Lithuania,8,10,6,6,6,9,Flawed democracy,Eastern Europe
+38,38,Latvia,7,10,6,6,7,9,Flawed democracy,Eastern Europe
+39,39,Greece,7,10,5,7,8,9,Flawed democracy,Western Europe
+40,40,South Africa,7,7,8,8,5,8,Flawed democracy,Sub-Saharan Africa
+41,41,Timor-Leste,7,10,6,6,7,8,Flawed democracy,Asia & Australasia
+42,42,Slovakia,7,10,7,6,6,8,Flawed democracy,Eastern Europe
+43,43,Malaysia,7,9,8,7,6,6,Flawed democracy,Asia & Australasia
+44,43,Trinidad and Tobago,7,10,7,6,6,7,Flawed democracy,Latin America
+45,45,Colombia,7,9,7,6,6,9,Flawed democracy,Latin America
+46,46,Panama,7,10,6,7,5,8,Flawed democracy,Latin America
+47,47,Bulgaria,7,9,6,7,4,8,Flawed democracy,Eastern Europe
+48,48,Argentina,7,9,5,6,6,8,Flawed democracy,Latin America
+49,49,Suriname,7,9,6,7,5,8,Flawed democracy,Latin America
+50,50,Jamaica,7,9,7,4,6,8,Flawed democracy,Latin America
+51,51,India,7,9,7,7,6,7,Flawed democracy,Asia & Australasia
+52,52,Brazil,7,10,5,6,5,8,Flawed democracy,Latin America
+53,53,Tunisia,7,9,6,7,6,6,Flawed democracy,Middle East & North Africa
+54,54,Philippines,7,9,5,7,4,7,Flawed democracy,Asia & Australasia
+55,55,Ghana,7,8,6,7,6,6,Flawed democracy,Sub-Saharan Africa
+56,55,Hungary,7,9,6,5,6,7,Flawed democracy,Eastern Europe
+57,57,Poland,7,9,6,6,4,7,Flawed democracy,Eastern Europe
+58,58,Peru,7,9,5,6,6,8,Flawed democracy,Latin America
+59,59,Croatia,7,9,6,6,5,7,Flawed democracy,Eastern Europe
+60,60,Dominican Republic,7,9,5,6,5,7,Flawed democracy,Latin America
+61,60,Lesotho,7,9,5,7,6,7,Flawed democracy,Sub-Saharan Africa
+62,62,Mongolia,7,9,6,6,5,7,Flawed democracy,Asia & Australasia
+63,63,Romania,6,9,6,6,4,8,Flawed democracy,Eastern Europe
+64,64,Indonesia,6,8,7,6,6,6,Flawed democracy,Asia & Australasia
+65,65,Namibia,6,7,5,7,6,8,Flawed democracy,Sub-Saharan Africa
+66,66,Serbia,6,8,5,6,5,7,Flawed democracy,Eastern Europe
+67,67,Ecuador,6,9,5,6,4,7,Flawed democracy,Latin America
+68,68,Thailand,6,7,5,6,6,6,Flawed democracy,Asia & Australasia
+69,69,Sri Lanka,6,7,6,6,6,6,Flawed democracy,Asia & Australasia
+70,70,Paraguay,6,9,6,5,4,7,Flawed democracy,Latin America
+71,71,El Salvador,6,9,5,6,4,7,Flawed democracy,Latin America
+72,71,Guyana,6,7,5,6,5,7,Flawed democracy,Latin America
+73,73,Mexico,6,8,6,7,3,6,Flawed democracy,Latin America
+74,74,Papua New Guinea,6,7,6,4,6,8,Flawed democracy,Asia & Australasia
+75,75,Hong Kong,6,4,4,6,8,9,Flawed democracy,Asia & Australasia
+76,75,Singapore,6,4,8,5,6,7,Flawed democracy,Asia & Australasia
+77,77,North Macedonia,6,7,5,7,4,7,Hybrid regime,Eastern Europe
+78,78,Ukraine,6,7,3,7,6,6,Hybrid regime,Eastern Europe
+79,79,Albania,6,7,5,4,5,8,Hybrid regime,Eastern Europe
+80,80,Bangladesh,6,8,6,6,4,5,Hybrid regime,Asia & Australasia
+81,81,Fiji,6,7,5,6,6,6,Hybrid regime,Asia & Australasia
+82,82,Senegal,6,6,6,4,6,6,Hybrid regime,Sub-Saharan Africa
+83,83,Moldova,6,7,5,6,4,7,Hybrid regime,Eastern Europe
+84,84,Montenegro,6,6,5,6,4,7,Hybrid regime,Eastern Europe
+85,85,Madagascar,6,8,4,6,6,5,Hybrid regime,Sub-Saharan Africa
+86,86,Armenia,6,8,5,6,3,6,Hybrid regime,Eastern Europe
+87,87,Malawi,6,6,4,5,6,6,Hybrid regime,Sub-Saharan Africa
+88,88,Liberia,5,7,3,6,6,6,Hybrid regime,Sub-Saharan Africa
+89,89,Georgia,5,8,3,6,4,6,Hybrid regime,Eastern Europe
+90,89,Honduras,5,8,4,4,4,6,Hybrid regime,Latin America
+91,91,Bhutan,5,9,7,3,4,4,Hybrid regime,Asia & Australasia
+92,92,Nepal,5,5,5,5,6,6,Hybrid regime,Asia & Australasia
+93,93,Guatemala,5,7,5,4,4,6,Hybrid regime,Latin America
+94,94,Kenya,5,4,6,7,6,4,Hybrid regime,Sub-Saharan Africa
+95,95,Tanzania,5,6,5,5,6,4,Hybrid regime,Sub-Saharan Africa
+96,96,Morocco,5,5,5,6,6,4,Hybrid regime,Middle East & North Africa
+97,97,Benin,5,5,6,4,6,5,Hybrid regime,Sub-Saharan Africa
+98,97,Zambia,5,5,3,4,7,6,Hybrid regime,Sub-Saharan Africa
+99,99,Uganda,5,4,4,4,7,6,Hybrid regime,Sub-Saharan Africa
+100,100,Mali,5,6,3,4,6,6,Hybrid regime,Sub-Saharan Africa
+101,101,Kyrgyzstan,5,6,3,7,4,5,Hybrid regime,Eastern Europe
+102,102,Bosnia and Herzegovina,5,6,3,6,4,6,Hybrid regime,Eastern Europe
+103,102,Sierra Leone,5,7,3,3,6,5,Hybrid regime,Sub-Saharan Africa
+104,104,Bolivia,5,5,4,5,4,7,Hybrid regime,Latin America
+105,105,Haiti,5,5,2,4,6,6,Hybrid regime,Latin America
+106,106,Lebanon,4,4,2,7,5,5,Hybrid regime,Middle East & North Africa
+107,107,Gambia,4,4,4,3,6,4,Hybrid regime,Sub-Saharan Africa
+108,108,Pakistan,4,6,6,2,3,5,Hybrid regime,Asia & Australasia
+109,109,Nigeria,4,5,4,3,4,4,Hybrid regime,Sub-Saharan Africa
+110,110,Turkey,4,3,5,5,5,2,Hybrid regime,Western Europe
+111,111,Ivory Coast,4,4,3,3,6,4,Hybrid regime,Sub-Saharan Africa
+112,112,Burkina Faso,4,4,3,4,5,4,Hybrid regime,Sub-Saharan Africa
+113,113,Algeria,4,3,3,5,5,4,Hybrid regime,Middle East & North Africa
+114,114,Jordan,4,4,4,4,4,4,Authoritarian,Middle East & North Africa
+115,114,Kuwait,4,4,4,4,4,4,Authoritarian,Middle East & North Africa
+116,116,Mauritania,4,4,4,5,3,4,Authoritarian,Sub-Saharan Africa
+117,117,Palestine,4,3,0,8,4,4,Authoritarian,Middle East & North Africa
+118,118,Iraq,4,5,0,7,5,2,Authoritarian,Middle East & North Africa
+119,119,Angola,4,2,3,6,5,3,Authoritarian,Sub-Saharan Africa
+120,120,Mozambique,4,3,2,5,5,4,Authoritarian,Sub-Saharan Africa
+121,121,Gabon,4,3,2,4,5,4,Authoritarian,Sub-Saharan Africa
+122,122,Myanmar,4,3,4,3,6,2,Authoritarian,Asia & Australasia
+123,122,Nicaragua,4,1,3,4,6,4,Authoritarian,Latin America
+124,124,Cambodia,4,1,5,3,6,3,Authoritarian,Asia & Australasia
+125,125,Ethiopia,3,0,4,6,5,3,Authoritarian,Sub-Saharan Africa
+126,126,Togo,3,3,2,3,5,3,Authoritarian,Sub-Saharan Africa
+127,127,Niger,3,3,1,3,4,5,Authoritarian,Sub-Saharan Africa
+128,128,Qatar,3,0,4,2,6,4,Authoritarian,Middle East & North Africa
+129,129,Rwanda,3,1,4,3,4,3,Authoritarian,Sub-Saharan Africa
+130,129,Zimbabwe,3,0,3,4,6,3,Authoritarian,Sub-Saharan Africa
+131,131,Comoros,3,2,2,4,4,4,Authoritarian,Sub-Saharan Africa
+132,132,Eswatini,3,1,3,3,6,4,Authoritarian,Sub-Saharan Africa
+133,132,Guinea,3,4,0,4,4,3,Authoritarian,Sub-Saharan Africa
+134,134,Republic of the Congo,3,2,3,4,4,3,Authoritarian,Sub-Saharan Africa
+135,134,Russia,3,2,2,5,3,4,Authoritarian,Eastern Europe
+136,136,Vietnam,3,0,3,4,6,3,Authoritarian,Asia & Australasia
+137,137,Egypt,3,3,3,3,4,2,Authoritarian,Middle East & North Africa
+138,137,Oman,3,0,4,3,4,4,Authoritarian,Middle East & North Africa
+139,139,Kazakhstan,3,1,2,4,4,3,Authoritarian,Eastern Europe
+140,140,Venezuela,3,0,2,5,4,3,Authoritarian,Latin America
+141,141,Afghanistan,3,3,1,4,3,4,Authoritarian,Asia & Australasia
+142,141,Cameroon,3,2,3,3,4,2,Authoritarian,Sub-Saharan Africa
+143,143,Cuba,3,0,4,3,4,3,Authoritarian,Latin America
+144,144,Djibouti,3,0,1,4,6,3,Authoritarian,Sub-Saharan Africa
+145,145,United Arab Emirates,3,0,4,2,5,3,Authoritarian,Middle East & North Africa
+146,146,Azerbaijan,3,1,3,3,4,4,Authoritarian,Eastern Europe
+147,147,Sudan,3,0,2,6,5,1,Authoritarian,Middle East & North Africa
+148,148,Guinea-Bissau,3,5,0,3,3,2,Authoritarian,Sub-Saharan Africa
+149,149,Bahrain,3,1,3,3,4,2,Authoritarian,Middle East & North Africa
+150,150,Belarus,2,1,2,3,4,2,Authoritarian,Eastern Europe
+151,151,Iran,2,0,3,4,3,1,Authoritarian,Middle East & North Africa
+152,152,Eritrea,2,0,2,2,7,1,Authoritarian,Sub-Saharan Africa
+153,153,China,2,0,4,3,3,1,Authoritarian,Asia & Australasia
+154,154,Burundi,2,0,0,3,5,2,Authoritarian,Sub-Saharan Africa
+155,155,Laos,2,0,3,2,5,1,Authoritarian,Asia & Australasia
+156,156,Libya,2,0,0,3,4,3,Authoritarian,Middle East & North Africa
+157,157,Uzbekistan,2,0,2,2,5,1,Authoritarian,Eastern Europe
+158,158,Yemen,2,0,0,4,5,1,Authoritarian,Middle East & North Africa
+159,159,Saudi Arabia,2,0,3,2,3,1,Authoritarian,Middle East & North Africa
+160,159,Tajikistan,2,0,1,2,6,1,Authoritarian,Eastern Europe
+161,161,Equatorial Guinea,2,0,0,3,4,1,Authoritarian,Sub-Saharan Africa
+162,162,Turkmenistan,2,0,1,2,5,1,Authoritarian,Eastern Europe
+163,163,Chad,2,0,0,2,4,3,Authoritarian,Sub-Saharan Africa
+164,164,Syria,1,0,0,3,4,0,Authoritarian,Middle East & North Africa
+165,165,Central African Republic,1,1,0,1,2,2,Authoritarian,Sub-Saharan Africa
+166,166,Democratic Republic of the Congo,1,0,0,2,3,1,Authoritarian,Sub-Saharan Africa
+167,167,North Korea,1,0,3,2,1,0,Authoritarian,Asia & Australasia
